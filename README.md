@@ -7,7 +7,7 @@ Informations:
 - Numbers of MTrk chunks
 - Delta-time in millisecond
 
-Screenshot:
+Screenshot:  
 ![ScreenShot](https://raw.githubusercontent.com/Neosama/MIDI_INFO/master/screen.PNG)
 
 This project is licensed under the GNU General Public License v3.0
